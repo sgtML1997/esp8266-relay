@@ -1,0 +1,5 @@
+{
+  "name": "esp8266/relay",
+  "description": "Simple PHP relay webhook for ESP8266",
+  "require": {}
+}
